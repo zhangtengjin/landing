@@ -17,6 +17,6 @@
     },
     "devDependencies": {
         "@umijs/preset-react": "^1.5.5",
-        "umi": "^3.2.3"
+        "umi": "^3.5.43"
     }
 }
